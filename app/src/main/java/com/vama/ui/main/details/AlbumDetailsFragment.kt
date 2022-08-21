@@ -9,10 +9,8 @@ import androidx.fragment.app.Fragment
 import com.vama.R
 import com.vama.ui.composeviews.showDetails
 
-
 class AlbumDetailsFragment : Fragment(R.layout.fragment_album_details) {
     private lateinit var mResult: Results
-
     companion object {
         fun newInstance(result: Results) = AlbumDetailsFragment().apply {
             mResult = result

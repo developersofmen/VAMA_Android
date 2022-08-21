@@ -7,7 +7,6 @@ class AppController : Application() {
     init {
         instance = this
     }
-
     companion object {
         private lateinit var instance: AppController
         fun applicationContext(): Context {

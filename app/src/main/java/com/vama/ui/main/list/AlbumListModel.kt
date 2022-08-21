@@ -7,7 +7,6 @@ import com.vama.repositories.datasource.AlbumRepositories
 
 class AlbumListModel : ViewModel() {
     private var mAlbumRepositories: AlbumRepositories? = null
-
     init {
         mAlbumRepositories = AlbumRepositories()
         getAlbum()

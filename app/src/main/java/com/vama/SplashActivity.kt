@@ -16,6 +16,7 @@ import com.vama.ui.composeviews.SplashLogo
 import com.vama.ui.theme.VAMAAndroidTheme
 
 class SplashActivity : ComponentActivity() {
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContent {
