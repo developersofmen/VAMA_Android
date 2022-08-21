@@ -13,8 +13,9 @@ Tech/Tools/Features :
 - Coil for image loading
 - Compose for UI development on Android.
 - Realm for local database
+- Animations like collapsing row items effects like collapsing toolbar.
 
-Modern Architecture :gi
+Modern Architecture :
 
 - MVVM for presentation layer (Model, View and ViewModel)
 - Android Architecture components (ViewModel, Livedata)
