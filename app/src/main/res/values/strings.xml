@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VAMA</string>
+    <string name="no_item_found">No item found!</string>
+    <string name="internet_not_available">Please connect to internet then click on retry.</string>
+    <string name="retry">Retry</string>
+    <string name="top_albums">Top 100 Albums</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+    <string name="visit_the_album">Visit The Album</string>
+    <string name="released">Released</string>
+</resources>
